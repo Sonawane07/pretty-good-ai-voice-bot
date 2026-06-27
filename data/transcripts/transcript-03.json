@@ -1,0 +1,855 @@
+{
+  "text": "Connect This call me now. may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el 2. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Darshin? Yes, this is Darshan. Could you tell me what appointment I currently have on file, including the date, time, doctor, location, and the reason or visit type? I want to make sure I'm looking at the right thing before we change anything.\nPlease provide your date of birth. My date of birth is December 20th, 2001. Darshan, you don't have any upcoming appointments on file right now. Would you like to schedule a new one?\nOkay, since there's nothing booked yet, let's set up a time that works around your schedule. Yes, I'd like to schedule one for a knee visit. For now, could you check? Sir, what type of appointment do you need? For example, is this a routine visit, a new patient consultation, a follow-up, or something else? A new patient consultation for my knee would be great. Do you have a specific provider you'd like to see, or should I look for the first available appointment?\nPlease check Sunday at 10 a.m. first, and if that's not available, look for the first available weekend morning. Since I don't have a doctor yet, you can use the first available provider, and I'll plan to stick with that same doctor going forward. There are no Sunday morning openings, but Dr. Doogie Howser has a slot on Tuesday, June 30th at 1245 p.m. Would you like to book that or should I check weekend mornings for the next available option?\nPlease check the earliest weekend morning with Dr. Doe. If there's no weekend availability at all, then I'd like the earliest weekday morning with that same doctor instead. Also, nothing is scheduled unless I explicitly confirm it, right? I just want to be sure nothing gets booked or changed before I say yes.\nNothing will be booked or changed until you clearly confirm. Let me check weekend mornings with Dr. Doe and if there's nothing, I'll look for the earliest weekday morning with that doctor. One moment. Sounds good. Thanks for checking. I'll wait to hear what you find before confirming anything.\nThere are no weekend morning openings with Dr. Judy Hauser. The earliest weekday morning slot is Tuesday, June 30th at 12.45pm. Would you like to book that or should I check for other dates? That time isn't a morning slot. Could you please check for the earliest weekday morning with Dr. Doogie Hauser instead? And just to confirm, nothing will be booked until I say yes.\nYou're correct. Nothing will be booked until you say yes. Let me check for the earliest weekday morning with Dr. Doody Hauser. One moment. Got it. I'll listen for the earliest weekday morning option with Dr. Hauser. Thanks for checking. I'll wait to hear the earliest weekday morning option with Dr. Hauser before I confirm anything.\nThe earliest weekday morning slot with Dr. Doogie Howser is not available right now. The soonest opening is Tuesday, June 30th at 1245 p.m. Would you like to book that or should I keep searching for later dates? Please keep searching for a morning appointment with Dr. Hauser on another weekday.\nIf no morning times exist at all, let me know and I'll decide whether to take the 12 45 p.m. slot. The earliest weekday morning with Dr. Doogie Howser is Tuesday, July 7th at 10 30 a.m. Would you like to book that slot or hear more options?\nYes, I'd like to book Tuesday, July at 10.30 a.m. with Dr. Hauser. Thanks for finding a morning time. Your appointment is set for Tuesday, July 7th at 10.30 a .m. with Dr. Doogie Hauser at Pivot Point Orthopedics.\nPlease bring your photo ID, insurance card, a list of your current medications and any imaging discs you have. Would you like a text confirmation? Yes, a text confirmation would be great. Thanks for your help today. You'll get a text confirmation soon at your number ending in 4944. If you need anything else just let us know.\nHave a great day. Perfect. Thanks so much. Have a great day as well.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " Connect",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 0.0,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " This call",
+      "speaker": "B",
+      "start": 0.0,
+      "end": 0.25,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " me now.",
+      "speaker": "A",
+      "start": 0.25,
+      "end": 0.5,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " may be recorded for quality and training purposes.",
+      "speaker": "B",
+      "start": 0.5,
+      "end": 2.95,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para espa\u00f1ol,",
+      "speaker": "A",
+      "start": 3.05,
+      "end": 4.05,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " oprima el 2.",
+      "speaker": "A",
+      "start": 4.3999999999999995,
+      "end": 5.199999999999999,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.",
+      "speaker": "C",
+      "start": 5.999999999999999,
+      "end": 9.7,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Am I speaking with Darshin?",
+      "speaker": "C",
+      "start": 9.799999999999999,
+      "end": 11.2,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes,",
+      "speaker": "D",
+      "start": 13.5,
+      "end": 14.1,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " this is Darshan.",
+      "speaker": "D",
+      "start": 14.15,
+      "end": 14.850000000000001,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you tell me what appointment I currently have on file,",
+      "speaker": "D",
+      "start": 15.0,
+      "end": 17.45,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " including the date, time,",
+      "speaker": "D",
+      "start": 17.5,
+      "end": 18.85,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " doctor,",
+      "speaker": "D",
+      "start": 18.900000000000002,
+      "end": 19.35,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " location,",
+      "speaker": "D",
+      "start": 19.400000000000002,
+      "end": 19.85,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and the reason or visit type?",
+      "speaker": "D",
+      "start": 19.900000000000002,
+      "end": 21.400000000000002,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I want to make sure I'm looking at the right thing before we change anything.",
+      "speaker": "D",
+      "start": 21.950000000000003,
+      "end": 24.550000000000004,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please provide your date of birth.",
+      "speaker": "C",
+      "start": 28.308,
+      "end": 29.658,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " My date of birth is December 20th, 2001.",
+      "speaker": "D",
+      "start": 30.958,
+      "end": 33.808,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Darshan, you don't have any upcoming appointments on file right now.",
+      "speaker": "C",
+      "start": 39.658,
+      "end": 42.808,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to schedule a new one?",
+      "speaker": "C",
+      "start": 43.058,
+      "end": 44.658,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Okay,",
+      "speaker": "D",
+      "start": 46.996,
+      "end": 47.346000000000004,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " since there's nothing booked yet,",
+      "speaker": "D",
+      "start": 47.846000000000004,
+      "end": 48.846000000000004,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " let's set up a time that works around your schedule.",
+      "speaker": "D",
+      "start": 49.196000000000005,
+      "end": 50.946000000000005,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, I'd like to schedule one for a knee visit.",
+      "speaker": "D",
+      "start": 51.346000000000004,
+      "end": 53.396,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " For now, could you check?",
+      "speaker": "D",
+      "start": 53.596000000000004,
+      "end": 54.896,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Sir, what type of appointment do you need? For example, is this a routine visit,",
+      "speaker": "C",
+      "start": 54.896,
+      "end": 59.246,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " a new patient consultation,",
+      "speaker": "C",
+      "start": 59.746,
+      "end": 60.946000000000005,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " a follow-up, or something else?",
+      "speaker": "C",
+      "start": 61.746,
+      "end": 63.54600000000001,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " A new patient consultation for my knee would be great.",
+      "speaker": "D",
+      "start": 64.896,
+      "end": 67.396,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Do you have a specific provider you'd like to see,",
+      "speaker": "C",
+      "start": 71.346,
+      "end": 73.796,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " or should I look for the first available appointment?",
+      "speaker": "C",
+      "start": 73.896,
+      "end": 75.946,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please check Sunday at 10 a.m. first,",
+      "speaker": "D",
+      "start": 78.548,
+      "end": 80.648,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and if that's not available,",
+      "speaker": "D",
+      "start": 80.798,
+      "end": 81.848,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " look for the first available weekend morning.",
+      "speaker": "D",
+      "start": 82.248,
+      "end": 83.998,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Since I don't have a doctor yet,",
+      "speaker": "D",
+      "start": 84.69800000000001,
+      "end": 85.94800000000001,
+      "id": "seg_34"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " you can use the first available provider,",
+      "speaker": "D",
+      "start": 86.248,
+      "end": 87.748,
+      "id": "seg_35"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and I'll plan to stick with that same doctor going forward.",
+      "speaker": "D",
+      "start": 87.94800000000001,
+      "end": 90.098,
+      "id": "seg_36"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " There are no Sunday morning openings,",
+      "speaker": "C",
+      "start": 93.498,
+      "end": 95.94800000000001,
+      "id": "seg_37"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but Dr.",
+      "speaker": "C",
+      "start": 96.098,
+      "end": 97.19800000000001,
+      "id": "seg_38"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doogie Howser has a slot on Tuesday, June 30th at 1245 p.m. Would you like to book that or should I check weekend mornings for the next available option?",
+      "speaker": "C",
+      "start": 97.348,
+      "end": 106.998,
+      "id": "seg_39"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please check the earliest weekend morning with Dr.",
+      "speaker": "D",
+      "start": 110.068,
+      "end": 112.468,
+      "id": "seg_40"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doe. If there's no weekend availability at all, then I'd like the earliest weekday morning with that same doctor instead.",
+      "speaker": "D",
+      "start": 112.568,
+      "end": 118.468,
+      "id": "seg_41"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Also, nothing is scheduled unless I explicitly confirm it,",
+      "speaker": "D",
+      "start": 119.318,
+      "end": 122.41799999999999,
+      "id": "seg_42"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " right?",
+      "speaker": "D",
+      "start": 122.518,
+      "end": 122.66799999999999,
+      "id": "seg_43"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I just want to be sure nothing gets booked or changed before I say yes.",
+      "speaker": "D",
+      "start": 123.368,
+      "end": 126.568,
+      "id": "seg_44"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Nothing will be booked or changed until you clearly confirm.",
+      "speaker": "C",
+      "start": 130.132,
+      "end": 133.332,
+      "id": "seg_45"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Let me check weekend mornings with Dr.",
+      "speaker": "C",
+      "start": 133.68200000000002,
+      "end": 135.732,
+      "id": "seg_46"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doe and if there's nothing,",
+      "speaker": "C",
+      "start": 135.782,
+      "end": 137.782,
+      "id": "seg_47"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll look for the earliest weekday morning with that doctor.",
+      "speaker": "C",
+      "start": 137.832,
+      "end": 140.282,
+      "id": "seg_48"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " One moment.",
+      "speaker": "A",
+      "start": 140.43200000000002,
+      "end": 141.232,
+      "id": "seg_49"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Sounds good.",
+      "speaker": "D",
+      "start": 142.93200000000002,
+      "end": 143.632,
+      "id": "seg_50"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for checking.",
+      "speaker": "D",
+      "start": 143.782,
+      "end": 144.582,
+      "id": "seg_51"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll wait to hear what you find before confirming anything.",
+      "speaker": "D",
+      "start": 144.882,
+      "end": 147.032,
+      "id": "seg_52"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " There are no weekend morning openings with Dr.",
+      "speaker": "C",
+      "start": 150.484,
+      "end": 152.88400000000001,
+      "id": "seg_53"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Judy Hauser.",
+      "speaker": "C",
+      "start": 152.934,
+      "end": 153.63400000000001,
+      "id": "seg_54"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The earliest weekday morning slot is Tuesday,",
+      "speaker": "C",
+      "start": 153.88400000000001,
+      "end": 156.63400000000001,
+      "id": "seg_55"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 30th at 12.45pm.",
+      "speaker": "C",
+      "start": 156.88400000000001,
+      "end": 158.834,
+      "id": "seg_56"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to book that or should I check for other dates?",
+      "speaker": "C",
+      "start": 159.234,
+      "end": 161.78400000000002,
+      "id": "seg_57"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " That time isn't a morning slot.",
+      "speaker": "D",
+      "start": 163.78400000000002,
+      "end": 165.584,
+      "id": "seg_58"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you please check for the earliest weekday morning with Dr.",
+      "speaker": "D",
+      "start": 166.13400000000001,
+      "end": 168.78400000000002,
+      "id": "seg_59"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doogie Hauser instead?",
+      "speaker": "D",
+      "start": 168.834,
+      "end": 169.78400000000002,
+      "id": "seg_60"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " And just to confirm,",
+      "speaker": "D",
+      "start": 170.484,
+      "end": 171.584,
+      "id": "seg_61"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " nothing will be booked until I say yes.",
+      "speaker": "D",
+      "start": 172.13400000000001,
+      "end": 173.68400000000003,
+      "id": "seg_62"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You're correct.",
+      "speaker": "C",
+      "start": 179.316,
+      "end": 180.016,
+      "id": "seg_63"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Nothing will be booked until you say yes.",
+      "speaker": "C",
+      "start": 180.266,
+      "end": 182.166,
+      "id": "seg_64"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Let me check for the earliest weekday morning with Dr.",
+      "speaker": "C",
+      "start": 182.616,
+      "end": 185.116,
+      "id": "seg_65"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doody Hauser.",
+      "speaker": "C",
+      "start": 185.166,
+      "end": 185.916,
+      "id": "seg_66"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " One moment.",
+      "speaker": "D",
+      "start": 186.166,
+      "end": 186.816,
+      "id": "seg_67"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Got it.",
+      "speaker": "D",
+      "start": 188.116,
+      "end": 188.866,
+      "id": "seg_68"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll listen for the earliest weekday morning option with Dr.",
+      "speaker": "D",
+      "start": 189.216,
+      "end": 191.966,
+      "id": "seg_69"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Hauser.",
+      "speaker": "D",
+      "start": 192.01600000000002,
+      "end": 192.316,
+      "id": "seg_70"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for checking.",
+      "speaker": "D",
+      "start": 193.116,
+      "end": 194.01600000000002,
+      "id": "seg_71"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll wait to hear the earliest weekday morning option with Dr.",
+      "speaker": "D",
+      "start": 194.51600000000002,
+      "end": 197.316,
+      "id": "seg_72"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Hauser before I confirm anything.",
+      "speaker": "D",
+      "start": 197.366,
+      "end": 198.666,
+      "id": "seg_73"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The earliest weekday morning slot with Dr.",
+      "speaker": "C",
+      "start": 202.036,
+      "end": 204.586,
+      "id": "seg_74"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doogie Howser is not available right now.",
+      "speaker": "C",
+      "start": 204.636,
+      "end": 207.636,
+      "id": "seg_75"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The soonest opening is Tuesday,",
+      "speaker": "C",
+      "start": 207.886,
+      "end": 209.836,
+      "id": "seg_76"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 30th at 1245 p.m.",
+      "speaker": "C",
+      "start": 210.486,
+      "end": 213.486,
+      "id": "seg_77"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to book that or should I keep searching for later dates?",
+      "speaker": "C",
+      "start": 213.636,
+      "end": 217.186,
+      "id": "seg_78"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please keep searching for a morning appointment with Dr.",
+      "speaker": "D",
+      "start": 221.386,
+      "end": 224.136,
+      "id": "seg_79"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Hauser on another weekday.",
+      "speaker": "D",
+      "start": 224.186,
+      "end": 225.436,
+      "id": "seg_80"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If no morning times exist at all, let me know and I'll decide whether to take the 12 45 p.m. slot.",
+      "speaker": "D",
+      "start": 226.004,
+      "end": 231.804,
+      "id": "seg_81"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The earliest weekday morning with Dr.",
+      "speaker": "C",
+      "start": 239.054,
+      "end": 241.154,
+      "id": "seg_82"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doogie Howser is Tuesday,",
+      "speaker": "C",
+      "start": 241.35399999999998,
+      "end": 242.904,
+      "id": "seg_83"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " July 7th at 10 30 a.m. Would you like to book that slot or hear more options?",
+      "speaker": "C",
+      "start": 243.304,
+      "end": 248.654,
+      "id": "seg_84"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes,",
+      "speaker": "D",
+      "start": 250.1,
+      "end": 250.6,
+      "id": "seg_85"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'd like to book Tuesday,",
+      "speaker": "D",
+      "start": 250.65,
+      "end": 251.95,
+      "id": "seg_86"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " July at 10.30 a.m. with Dr.",
+      "speaker": "D",
+      "start": 252.1,
+      "end": 253.79999999999998,
+      "id": "seg_87"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Hauser.",
+      "speaker": "D",
+      "start": 253.9,
+      "end": 254.15,
+      "id": "seg_88"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for finding a morning time.",
+      "speaker": "D",
+      "start": 254.45,
+      "end": 255.79999999999998,
+      "id": "seg_89"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Your appointment is set for Tuesday,",
+      "speaker": "C",
+      "start": 269.75,
+      "end": 271.6,
+      "id": "seg_90"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " July 7th at 10.30 a.m. with Dr.",
+      "speaker": "C",
+      "start": 271.75,
+      "end": 275.0,
+      "id": "seg_91"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Doogie Hauser at Pivot Point Orthopedics.",
+      "speaker": "C",
+      "start": 275.1,
+      "end": 277.75,
+      "id": "seg_92"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please bring your photo ID,",
+      "speaker": "C",
+      "start": 278.164,
+      "end": 279.514,
+      "id": "seg_93"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " insurance card,",
+      "speaker": "C",
+      "start": 279.764,
+      "end": 280.864,
+      "id": "seg_94"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " a list of your current medications and any imaging discs you have.",
+      "speaker": "C",
+      "start": 281.414,
+      "end": 284.864,
+      "id": "seg_95"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like a text confirmation?",
+      "speaker": "C",
+      "start": 285.264,
+      "end": 286.414,
+      "id": "seg_96"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, a text confirmation would be great.",
+      "speaker": "D",
+      "start": 288.964,
+      "end": 291.114,
+      "id": "seg_97"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for your help today.",
+      "speaker": "D",
+      "start": 291.464,
+      "end": 292.164,
+      "id": "seg_98"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You'll get a text confirmation soon at your number ending in 4944.",
+      "speaker": "C",
+      "start": 297.164,
+      "end": 301.81399999999996,
+      "id": "seg_99"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If you need anything else just let us know.",
+      "speaker": "C",
+      "start": 302.364,
+      "end": 304.364,
+      "id": "seg_100"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a great day.",
+      "speaker": "C",
+      "start": 304.852,
+      "end": 305.55199999999996,
+      "id": "seg_101"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Perfect.",
+      "speaker": "D",
+      "start": 307.05199999999996,
+      "end": 307.652,
+      "id": "seg_102"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks so much.",
+      "speaker": "D",
+      "start": 307.952,
+      "end": 308.75199999999995,
+      "id": "seg_103"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a great day as well.",
+      "speaker": "D",
+      "start": 308.952,
+      "end": 310.152,
+      "id": "seg_104"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 14496,
+    "input_tokens": 5651,
+    "input_token_details": {
+      "text_tokens": 648,
+      "audio_tokens": 5003
+    },
+    "output_tokens": 8845
+  }
+}

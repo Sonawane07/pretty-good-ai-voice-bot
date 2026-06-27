@@ -1,0 +1,295 @@
+{
+  "text": "And This call that's the end may of be recorded for quality and training purposes. Para espa\u00f1ol oprima el dos. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Darshan? Yes, this is Darshan Sanawane. Please provide your date of birth. December 20, 2001.\nThe birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today? Before we do anything with my account, can you also check my wife's Prius appointment time? I need to know whether it conflicts with mine.\nI can only access your account details. For Priya's appointment, she'll need to call herself or be on the line with you for privacy reasons. Would you like to check your own upcoming appointments now? Okay, that makes sense. Please do not change anything on her account. Can you confirm nothing was changed on my account either? Nothing has been changed on your account. Would you like to review your upcoming appointments or need help with something else?\nNo, that's all for now. Thanks for confirming. Bye. You're welcome. Have a great day. You too. Bye.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " And",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 0.0,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " This call",
+      "speaker": "B",
+      "start": 0.0,
+      "end": 0.1499999999999999,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " that's the end",
+      "speaker": "A",
+      "start": 0.1499999999999999,
+      "end": 0.4999999999999998,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " may of be recorded for quality and training purposes.",
+      "speaker": "B",
+      "start": 0.4999999999999998,
+      "end": 2.8999999999999995,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para espa\u00f1ol oprima el dos.",
+      "speaker": "B",
+      "start": 3.3,
+      "end": 5.1499999999999995,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.",
+      "speaker": "A",
+      "start": 5.8999999999999995,
+      "end": 9.700000000000001,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Am I speaking with Darshan?",
+      "speaker": "A",
+      "start": 10.200000000000001,
+      "end": 11.55,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, this is Darshan Sanawane.",
+      "speaker": "C",
+      "start": 12.950000000000001,
+      "end": 15.349999999999998,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please provide your date of birth.",
+      "speaker": "A",
+      "start": 16.599999999999998,
+      "end": 18.249999999999996,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " December 20,",
+      "speaker": "C",
+      "start": 19.749999999999996,
+      "end": 20.849999999999998,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " 2001.",
+      "speaker": "C",
+      "start": 21.099999999999998,
+      "end": 21.65,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The birthday doesn't match our records,",
+      "speaker": "A",
+      "start": 25.556,
+      "end": 27.206,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but for demo purposes,",
+      "speaker": "A",
+      "start": 27.406000000000002,
+      "end": 28.406000000000002,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll accept it.",
+      "speaker": "A",
+      "start": 28.656000000000002,
+      "end": 29.456000000000003,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " How can I help you today?",
+      "speaker": "A",
+      "start": 29.806,
+      "end": 30.806,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Before we do anything with my account,",
+      "speaker": "C",
+      "start": 32.856,
+      "end": 34.756,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " can you also check my wife's Prius appointment time?",
+      "speaker": "C",
+      "start": 34.906000000000006,
+      "end": 37.456,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I need to know whether it conflicts with mine.",
+      "speaker": "C",
+      "start": 37.906000000000006,
+      "end": 39.806000000000004,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I can only access your account details.",
+      "speaker": "A",
+      "start": 45.684,
+      "end": 47.884,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " For Priya's appointment,",
+      "speaker": "A",
+      "start": 48.184,
+      "end": 49.384,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " she'll need to call herself or be on the line with you for privacy reasons.",
+      "speaker": "A",
+      "start": 49.583999999999996,
+      "end": 52.884,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to check your own upcoming appointments now?",
+      "speaker": "A",
+      "start": 53.333999999999996,
+      "end": 55.684,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Okay,",
+      "speaker": "C",
+      "start": 57.333999999999996,
+      "end": 57.833999999999996,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " that makes sense.",
+      "speaker": "C",
+      "start": 57.884,
+      "end": 58.733999999999995,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please do not change anything on her account.",
+      "speaker": "C",
+      "start": 59.134,
+      "end": 61.583999999999996,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Can you confirm nothing was changed on my account either?",
+      "speaker": "C",
+      "start": 62.184,
+      "end": 65.234,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Nothing has been changed on your account.",
+      "speaker": "A",
+      "start": 68.03399999999999,
+      "end": 70.184,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to review your upcoming appointments or need help with something else?",
+      "speaker": "A",
+      "start": 70.484,
+      "end": 74.03399999999999,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " No, that's all for now.",
+      "speaker": "C",
+      "start": 76.692,
+      "end": 77.842,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for confirming.",
+      "speaker": "C",
+      "start": 78.04199999999999,
+      "end": 78.99199999999999,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Bye.",
+      "speaker": "C",
+      "start": 79.342,
+      "end": 79.842,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You're welcome.",
+      "speaker": "A",
+      "start": 82.99199999999999,
+      "end": 83.74199999999999,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a great day.",
+      "speaker": "A",
+      "start": 84.04199999999999,
+      "end": 84.792,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You too.",
+      "speaker": "C",
+      "start": 86.24199999999999,
+      "end": 86.942,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Bye.",
+      "speaker": "C",
+      "start": 86.99199999999999,
+      "end": 87.392,
+      "id": "seg_34"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 3654,
+    "input_tokens": 1274,
+    "input_token_details": {
+      "text_tokens": 111,
+      "audio_tokens": 1163
+    },
+    "output_tokens": 2380
+  }
+}

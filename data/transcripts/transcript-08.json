@@ -1,0 +1,631 @@
+{
+  "text": "This Neck call me may now. be recorded for quality and training purposes. Para Espanol, oprima el dos. Thanks for calling PivotPoint Orthopaedics, part of Pretty Good ai. Am I speaking with Darshan? Yes, this is Darshan Sonnawane. My date of birth is Please decem tell me your date of birth. december twentieth two thousand one. The birthdate doesn't match our records, but for demo purposes I'll accept it.\nHow can I help you today? Okay, let's line these up carefully so the two visits don't get mixed together. I need to set up two different visits. First is for wrist pain after lifting a heavy box, and I'd like that one first, preferably with the earliest available provider in It the morning. sounds like you need an appointment for wrist pain after lifting a heavy box. Would you say this is an urgent concern that needs prompt attention, or is it more of a routine issue?\nIt's not an emergency, it's more of a routine issue, but it's bothering me enough that I'd like to be seen soon. If possible, I'd still prefer the earliest morning Do you have a preferred provider for this visit, or would you like to see the first available? First available is fine.\nWe have an opening for an office visit with Kelly Noble, MD, tomorrow at 11 a.m. Would you like to book that slot? Or would you prefer to hear about other available times next week? I'll take that one. Could you repeat the wrist appointment date, time, provider, and location so I can be sure I have it right? Your appointment is booked for tomorrow, Friday, June 26th.\nat 11 a .m. with Kelly Noble, M.D. The visit will be at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them. Would you like to set up your second visit now? Yes, let's set up the hip pain visit too. Please book that separately on a different day. Is this hip pain visit also a routine office visit?\nOr do you need a different type of appointment? It's a routine office visit. Please look for another day and time, and a different provider if possible. It looks like the system won't let me book two routine office visits at the same time. I can connect you to a team member who can help set up your second visit. Would you like me to transfer you now? Yes, please transfer me to a team member who can help set up this second visit.\nI want to keep the rest appointment as it is and just Connecting you to a representative. Please wait. Hello? You've reached the pretty good ai test line. Good bye. Oh, okay, I'll call back to finish scheduling the hip visit. Good bye.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " This Neck",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 0.25,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " call",
+      "speaker": "B",
+      "start": 0.25,
+      "end": 0.3500000000000001,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " me",
+      "speaker": "A",
+      "start": 0.3500000000000001,
+      "end": 0.5,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " may",
+      "speaker": "B",
+      "start": 0.5,
+      "end": 0.55,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " now.",
+      "speaker": "A",
+      "start": 0.55,
+      "end": 0.7,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " be recorded for quality and training purposes.",
+      "speaker": "B",
+      "start": 0.7,
+      "end": 3.0,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para Espanol, oprima el dos.",
+      "speaker": "A",
+      "start": 3.3,
+      "end": 5.25,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling PivotPoint Orthopaedics,",
+      "speaker": "C",
+      "start": 6.1,
+      "end": 7.999999999999999,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " part of Pretty Good ai.",
+      "speaker": "C",
+      "start": 8.5,
+      "end": 9.3,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Am I speaking with Darshan?",
+      "speaker": "C",
+      "start": 10.100000000000001,
+      "end": 11.150000000000002,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes,",
+      "speaker": "D",
+      "start": 13.150000000000002,
+      "end": 13.500000000000002,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " this is Darshan Sonnawane.",
+      "speaker": "D",
+      "start": 13.850000000000001,
+      "end": 15.100000000000001,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " My date of birth is Please decem",
+      "speaker": "D",
+      "start": 15.650000000000002,
+      "end": 16.8,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " tell me your date of birth.",
+      "speaker": "C",
+      "start": 16.8,
+      "end": 18.25,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " december twentieth two thousand one.",
+      "speaker": "D",
+      "start": 19.7,
+      "end": 21.4,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The birthdate doesn't match our records,",
+      "speaker": "C",
+      "start": 24.15,
+      "end": 25.599999999999998,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but for demo purposes I'll accept it.",
+      "speaker": "C",
+      "start": 25.749999999999996,
+      "end": 27.549999999999997,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " How can I help you today?",
+      "speaker": "C",
+      "start": 27.988,
+      "end": 28.988,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Okay,",
+      "speaker": "D",
+      "start": 30.338,
+      "end": 30.887999999999998,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " let's line these up carefully so the two visits don't get mixed together.",
+      "speaker": "D",
+      "start": 31.238,
+      "end": 34.738,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I need to set up two different visits.",
+      "speaker": "D",
+      "start": 35.188,
+      "end": 36.738,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " First is for wrist pain after lifting a heavy box,",
+      "speaker": "D",
+      "start": 37.138000000000005,
+      "end": 39.738,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and I'd like that one first,",
+      "speaker": "D",
+      "start": 40.138000000000005,
+      "end": 41.588,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " preferably with the earliest available provider in",
+      "speaker": "D",
+      "start": 42.188,
+      "end": 44.238,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It",
+      "speaker": "C",
+      "start": 44.238,
+      "end": 44.338,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " the morning.",
+      "speaker": "D",
+      "start": 44.338,
+      "end": 44.438,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " sounds like you need an appointment for wrist pain after lifting a heavy box.",
+      "speaker": "C",
+      "start": 44.438,
+      "end": 47.638000000000005,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you say this is an urgent concern that needs prompt attention,",
+      "speaker": "C",
+      "start": 48.088,
+      "end": 51.038,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " or is it more of a routine issue?",
+      "speaker": "C",
+      "start": 51.138000000000005,
+      "end": 52.488,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It's not an emergency,",
+      "speaker": "D",
+      "start": 54.036,
+      "end": 55.336,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " it's more of a routine issue,",
+      "speaker": "D",
+      "start": 55.586,
+      "end": 57.286,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but it's bothering me enough that I'd like to be seen soon.",
+      "speaker": "D",
+      "start": 57.636,
+      "end": 59.836,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If possible,",
+      "speaker": "D",
+      "start": 60.486000000000004,
+      "end": 61.036,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'd still prefer the earliest morning",
+      "speaker": "D",
+      "start": 61.236000000000004,
+      "end": 62.686,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Do you have a preferred provider for this visit,",
+      "speaker": "C",
+      "start": 62.686,
+      "end": 64.636,
+      "id": "seg_34"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " or would you like to see the first available?",
+      "speaker": "C",
+      "start": 64.986,
+      "end": 66.536,
+      "id": "seg_35"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " First available is fine.",
+      "speaker": "D",
+      "start": 68.936,
+      "end": 70.436,
+      "id": "seg_36"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " We have an opening for an office visit with Kelly Noble,",
+      "speaker": "C",
+      "start": 74.004,
+      "end": 76.90400000000001,
+      "id": "seg_37"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " MD,",
+      "speaker": "C",
+      "start": 77.104,
+      "end": 77.304,
+      "id": "seg_38"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " tomorrow at 11 a.m. Would you like to book that slot?",
+      "speaker": "C",
+      "start": 77.40400000000001,
+      "end": 80.70400000000001,
+      "id": "seg_39"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Or would you prefer to hear about other available times next week?",
+      "speaker": "C",
+      "start": 81.054,
+      "end": 84.254,
+      "id": "seg_40"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll take that one.",
+      "speaker": "D",
+      "start": 85.65400000000001,
+      "end": 86.804,
+      "id": "seg_41"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you repeat the wrist appointment date,",
+      "speaker": "D",
+      "start": 87.304,
+      "end": 89.40400000000001,
+      "id": "seg_42"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " time,",
+      "speaker": "D",
+      "start": 89.45400000000001,
+      "end": 89.95400000000001,
+      "id": "seg_43"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " provider, and location so I can be sure I have it right?",
+      "speaker": "D",
+      "start": 90.254,
+      "end": 93.004,
+      "id": "seg_44"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Your appointment is booked for tomorrow,",
+      "speaker": "C",
+      "start": 95.45400000000001,
+      "end": 97.20400000000001,
+      "id": "seg_45"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Friday,",
+      "speaker": "C",
+      "start": 97.804,
+      "end": 98.054,
+      "id": "seg_46"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 26th.",
+      "speaker": "C",
+      "start": 98.304,
+      "end": 99.254,
+      "id": "seg_47"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " at 11 a.m. with Kelly Noble,",
+      "speaker": "C",
+      "start": 99.476,
+      "end": 101.426,
+      "id": "seg_48"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " M.D.",
+      "speaker": "C",
+      "start": 101.826,
+      "end": 102.326,
+      "id": "seg_49"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The visit will be at Pivot Point Orthopedics.",
+      "speaker": "C",
+      "start": 102.776,
+      "end": 104.876,
+      "id": "seg_50"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please bring your photo ID,",
+      "speaker": "C",
+      "start": 105.426,
+      "end": 106.526,
+      "id": "seg_51"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " insurance card,",
+      "speaker": "C",
+      "start": 106.776,
+      "end": 107.526,
+      "id": "seg_52"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " a list of your current medications,",
+      "speaker": "C",
+      "start": 107.626,
+      "end": 108.976,
+      "id": "seg_53"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and any imaging discs if you have them.",
+      "speaker": "C",
+      "start": 109.376,
+      "end": 111.426,
+      "id": "seg_54"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to set up your second visit now?",
+      "speaker": "C",
+      "start": 111.976,
+      "end": 113.726,
+      "id": "seg_55"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, let's set up the hip pain visit too.",
+      "speaker": "D",
+      "start": 115.376,
+      "end": 118.176,
+      "id": "seg_56"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please book that separately on a different day.",
+      "speaker": "D",
+      "start": 118.876,
+      "end": 120.976,
+      "id": "seg_57"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Is this hip pain visit also a routine office visit?",
+      "speaker": "C",
+      "start": 120.976,
+      "end": 124.026,
+      "id": "seg_58"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Or do you need a different type of appointment?",
+      "speaker": "C",
+      "start": 124.564,
+      "end": 126.36399999999999,
+      "id": "seg_59"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It's a routine office visit.",
+      "speaker": "D",
+      "start": 127.814,
+      "end": 129.714,
+      "id": "seg_60"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please look for another day and time, and a different provider if possible.",
+      "speaker": "D",
+      "start": 130.414,
+      "end": 134.064,
+      "id": "seg_61"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It looks like the system won't let me book two routine office visits at the same time.",
+      "speaker": "C",
+      "start": 137.464,
+      "end": 141.864,
+      "id": "seg_62"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I can connect you to a team member who can help set up your second visit.",
+      "speaker": "C",
+      "start": 142.114,
+      "end": 145.414,
+      "id": "seg_63"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like me to transfer you now?",
+      "speaker": "C",
+      "start": 145.914,
+      "end": 147.364,
+      "id": "seg_64"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes,",
+      "speaker": "D",
+      "start": 149.01399999999998,
+      "end": 149.614,
+      "id": "seg_65"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " please transfer me to a team member who can help set up this second visit.",
+      "speaker": "D",
+      "start": 149.664,
+      "end": 153.114,
+      "id": "seg_66"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I want to keep the rest appointment as it is and just",
+      "speaker": "D",
+      "start": 153.684,
+      "end": 156.384,
+      "id": "seg_67"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Connecting you to a representative.",
+      "speaker": "C",
+      "start": 156.384,
+      "end": 157.684,
+      "id": "seg_68"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please wait.",
+      "speaker": "C",
+      "start": 158.184,
+      "end": 159.184,
+      "id": "seg_69"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Hello?",
+      "speaker": "D",
+      "start": 160.534,
+      "end": 160.784,
+      "id": "seg_70"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You've reached the pretty good ai test line.",
+      "speaker": "D",
+      "start": 161.434,
+      "end": 163.334,
+      "id": "seg_71"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Good bye.",
+      "speaker": "D",
+      "start": 163.734,
+      "end": 164.034,
+      "id": "seg_72"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Oh,",
+      "speaker": "D",
+      "start": 165.934,
+      "end": 166.184,
+      "id": "seg_73"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " okay,",
+      "speaker": "D",
+      "start": 166.534,
+      "end": 166.784,
+      "id": "seg_74"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll call back to finish scheduling the hip visit.",
+      "speaker": "D",
+      "start": 167.234,
+      "end": 169.234,
+      "id": "seg_75"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Good bye.",
+      "speaker": "D",
+      "start": 169.734,
+      "end": 170.084,
+      "id": "seg_76"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 7948,
+    "input_tokens": 2753,
+    "input_token_details": {
+      "text_tokens": 306,
+      "audio_tokens": 2447
+    },
+    "output_tokens": 5195
+  }
+}

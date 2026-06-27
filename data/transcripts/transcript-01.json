@@ -1,0 +1,583 @@
+{
+  "text": "And That call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el 2. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Darshan? Yes, this is Darshan Sonoone. Please provide your date of birth. My date of birth is December 20, 2001.\nThe birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today? Let me quickly explain what's going on with my knee and what I'm hoping to book. I hurt my knee playing soccer over the weekend. It's swollen. I can walk, but stairs really hurt. I'd like to schedule the earliest appointment you have, and I prefer mornings if possible.\nIt sounds like you need an urgent visit for your knee injury. Just to confirm, are you looking to book an acute visit for prompt attention to your knee pain and swelling? Yes, that's right. I'd like an acute visit for the knee pain and swelling. And I'd really prefer a morning slot if you have one soon.\nYou already have an acute visit booked for this issue. If you want, I can help you reschedule or cancel that appointment, or I can transfer you to live support for more help. What would you like to do? If there's a morning slot sooner than what I have, I'd like to reschedule to that. If not, I'll keep the current one. Let me check if there's a morning slot sooner than your current appointment. One moment.\nThanks. I'm... Got it. If there isn't an earlier morning opening, I'll keep my current appointment. If you'd recommend live support to double check, you can transfer me.\nThe soonest morning slot I found is Friday, June 26th at 8.15 a.m. in Nashville, just 15 minutes later than your current appointment. There are also openings on Monday, June 29th at 8.30 a.m. and Tuesday, June 30th at 8.15 a.m. Would you like to move to any of these or keep your current appointment at 8 a.m.? I'll keep my current appointment at 8 a.m. since it's earlier. Thanks for checking.\nThere isn't an earlier morning slot available right now, so your current appointment will stay as is. If you need anything else or want to double check with live support, just let me know. That works for me. Thanks for your help. You're all set. If anything changes or you need more help, just give us a call. Take care of your knee. Thanks. I will. Have a good day.\nYou too. Wishing you a smooth recovery. Thank you. You're welcome. Alright. Thanks again. Take care. Take care. Goodbye. Goodbye.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " And That call may be recorded for quality and training purposes.",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 3.05,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para espa\u00f1ol,",
+      "speaker": "B",
+      "start": 3.3999999999999995,
+      "end": 4.1499999999999995,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " oprima el 2.",
+      "speaker": "B",
+      "start": 4.449999999999999,
+      "end": 5.35,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.",
+      "speaker": "C",
+      "start": 5.75,
+      "end": 9.45,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Am I speaking with Darshan?",
+      "speaker": "C",
+      "start": 9.899999999999999,
+      "end": 11.2,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, this is Darshan Sonoone.",
+      "speaker": "D",
+      "start": 12.85,
+      "end": 14.6,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please provide your date of birth.",
+      "speaker": "C",
+      "start": 20.7,
+      "end": 22.599999999999998,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " My date of birth is December 20,",
+      "speaker": "D",
+      "start": 24.049999999999997,
+      "end": 26.049999999999997,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " 2001.",
+      "speaker": "D",
+      "start": 26.249999999999996,
+      "end": 26.699999999999996,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The birthday doesn't match our records,",
+      "speaker": "C",
+      "start": 29.972,
+      "end": 31.672,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but for demo purposes,",
+      "speaker": "C",
+      "start": 31.722,
+      "end": 32.822,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll accept it.",
+      "speaker": "C",
+      "start": 32.972,
+      "end": 33.722,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " How can I help you today?",
+      "speaker": "C",
+      "start": 33.972,
+      "end": 35.072,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Let me quickly explain what's going on with my knee and what I'm hoping to book.",
+      "speaker": "D",
+      "start": 37.322,
+      "end": 41.222,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I hurt my knee playing soccer over the weekend.",
+      "speaker": "D",
+      "start": 41.472,
+      "end": 43.722,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It's swollen.",
+      "speaker": "D",
+      "start": 44.172000000000004,
+      "end": 44.822,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I can walk, but stairs really hurt.",
+      "speaker": "D",
+      "start": 44.972,
+      "end": 47.422,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'd like to schedule the earliest appointment you have,",
+      "speaker": "D",
+      "start": 47.822,
+      "end": 50.322,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and I prefer mornings if possible.",
+      "speaker": "D",
+      "start": 50.372,
+      "end": 51.872,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It sounds like you need an urgent visit for your knee injury.",
+      "speaker": "C",
+      "start": 55.86,
+      "end": 58.61,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Just to confirm,",
+      "speaker": "C",
+      "start": 59.11,
+      "end": 59.86,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " are you looking to book an acute visit for prompt attention to your knee pain and swelling?",
+      "speaker": "C",
+      "start": 60.06,
+      "end": 64.36,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, that's right.",
+      "speaker": "D",
+      "start": 65.96,
+      "end": 67.26,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'd like an acute visit for the knee pain and swelling.",
+      "speaker": "D",
+      "start": 67.76,
+      "end": 70.16,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " And I'd really prefer a morning slot if you have one soon.",
+      "speaker": "D",
+      "start": 70.36,
+      "end": 73.36,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You already have an acute visit booked for this issue.",
+      "speaker": "C",
+      "start": 89.044,
+      "end": 91.494,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If you want, I can help you reschedule or cancel that appointment,",
+      "speaker": "C",
+      "start": 91.744,
+      "end": 95.044,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " or I can transfer you to live support for more help.",
+      "speaker": "C",
+      "start": 95.194,
+      "end": 98.044,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " What would you like to do?",
+      "speaker": "C",
+      "start": 98.394,
+      "end": 99.444,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If there's a morning slot sooner than what I have,",
+      "speaker": "D",
+      "start": 101.294,
+      "end": 103.994,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'd like to reschedule to that.",
+      "speaker": "D",
+      "start": 104.144,
+      "end": 105.444,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If not,",
+      "speaker": "D",
+      "start": 105.694,
+      "end": 106.244,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll keep the current one.",
+      "speaker": "D",
+      "start": 106.344,
+      "end": 107.344,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Let me check if there's a morning slot sooner than your current appointment.",
+      "speaker": "C",
+      "start": 110.694,
+      "end": 114.194,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " One moment.",
+      "speaker": "C",
+      "start": 114.394,
+      "end": 115.144,
+      "id": "seg_34"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks.",
+      "speaker": "D",
+      "start": 116.948,
+      "end": 117.24799999999999,
+      "id": "seg_35"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'm...",
+      "speaker": "C",
+      "start": 117.24799999999999,
+      "end": 117.698,
+      "id": "seg_36"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Got it.",
+      "speaker": "D",
+      "start": 119.29799999999999,
+      "end": 119.948,
+      "id": "seg_37"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If there isn't an earlier morning opening,",
+      "speaker": "D",
+      "start": 120.098,
+      "end": 122.348,
+      "id": "seg_38"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll keep my current appointment.",
+      "speaker": "D",
+      "start": 122.448,
+      "end": 123.49799999999999,
+      "id": "seg_39"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If you'd recommend live support to double check,",
+      "speaker": "D",
+      "start": 123.648,
+      "end": 125.898,
+      "id": "seg_40"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " you can transfer me.",
+      "speaker": "D",
+      "start": 125.99799999999999,
+      "end": 126.74799999999999,
+      "id": "seg_41"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The soonest morning slot I found is Friday,",
+      "speaker": "C",
+      "start": 133.524,
+      "end": 135.974,
+      "id": "seg_42"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 26th at 8.15 a.m. in Nashville,",
+      "speaker": "C",
+      "start": 136.224,
+      "end": 139.474,
+      "id": "seg_43"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " just 15 minutes later than your current appointment.",
+      "speaker": "C",
+      "start": 139.574,
+      "end": 142.374,
+      "id": "seg_44"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " There are also openings on Monday, June 29th at 8.30 a.m.",
+      "speaker": "C",
+      "start": 142.824,
+      "end": 147.224,
+      "id": "seg_45"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and Tuesday,",
+      "speaker": "C",
+      "start": 147.274,
+      "end": 148.124,
+      "id": "seg_46"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 30th at 8.15 a.m. Would you like to move to any of these or keep your current appointment at 8 a.m.?",
+      "speaker": "C",
+      "start": 148.224,
+      "end": 155.474,
+      "id": "seg_47"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll keep my current appointment at 8 a.m. since it's earlier.",
+      "speaker": "D",
+      "start": 157.174,
+      "end": 159.774,
+      "id": "seg_48"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for checking.",
+      "speaker": "D",
+      "start": 159.924,
+      "end": 160.674,
+      "id": "seg_49"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " There isn't an earlier morning slot available right now, so your current appointment will stay as is.",
+      "speaker": "C",
+      "start": 164.372,
+      "end": 169.322,
+      "id": "seg_50"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If you need anything else or want to double check with live support,",
+      "speaker": "C",
+      "start": 169.52200000000002,
+      "end": 172.872,
+      "id": "seg_51"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " just let me know.",
+      "speaker": "C",
+      "start": 173.122,
+      "end": 174.17200000000003,
+      "id": "seg_52"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " That works for me.",
+      "speaker": "D",
+      "start": 175.92200000000003,
+      "end": 176.722,
+      "id": "seg_53"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for your help.",
+      "speaker": "D",
+      "start": 177.02200000000002,
+      "end": 177.872,
+      "id": "seg_54"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You're all set.",
+      "speaker": "C",
+      "start": 180.52200000000002,
+      "end": 181.322,
+      "id": "seg_55"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If anything changes or you need more help, just give us a call.",
+      "speaker": "C",
+      "start": 181.52200000000002,
+      "end": 184.622,
+      "id": "seg_56"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Take care of your knee.",
+      "speaker": "C",
+      "start": 184.77200000000002,
+      "end": 185.822,
+      "id": "seg_57"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks.",
+      "speaker": "D",
+      "start": 187.67200000000003,
+      "end": 188.02200000000002,
+      "id": "seg_58"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I will.",
+      "speaker": "D",
+      "start": 188.07200000000003,
+      "end": 188.52200000000002,
+      "id": "seg_59"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a good day.",
+      "speaker": "D",
+      "start": 188.622,
+      "end": 189.42200000000003,
+      "id": "seg_60"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You too.",
+      "speaker": "C",
+      "start": 194.804,
+      "end": 195.254,
+      "id": "seg_61"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Wishing you a smooth recovery.",
+      "speaker": "C",
+      "start": 195.404,
+      "end": 196.954,
+      "id": "seg_62"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thank you.",
+      "speaker": "D",
+      "start": 198.404,
+      "end": 199.054,
+      "id": "seg_63"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You're welcome.",
+      "speaker": "C",
+      "start": 201.054,
+      "end": 201.804,
+      "id": "seg_64"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Alright.",
+      "speaker": "D",
+      "start": 203.304,
+      "end": 203.754,
+      "id": "seg_65"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks again.",
+      "speaker": "D",
+      "start": 204.004,
+      "end": 204.754,
+      "id": "seg_66"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Take care.",
+      "speaker": "D",
+      "start": 204.854,
+      "end": 205.454,
+      "id": "seg_67"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Take care.",
+      "speaker": "C",
+      "start": 207.254,
+      "end": 207.904,
+      "id": "seg_68"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Goodbye.",
+      "speaker": "D",
+      "start": 209.704,
+      "end": 210.054,
+      "id": "seg_69"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Goodbye.",
+      "speaker": "C",
+      "start": 211.854,
+      "end": 212.454,
+      "id": "seg_70"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 8884,
+    "input_tokens": 3341,
+    "input_token_details": {
+      "text_tokens": 371,
+      "audio_tokens": 2970
+    },
+    "output_tokens": 5543
+  }
+}

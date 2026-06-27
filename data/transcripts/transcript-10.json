@@ -1,0 +1,735 @@
+{
+  "text": "This Never call may mind. be recorded for quality and training purposes. Para espa\u00f1ol, oprima el 2. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Darshan? Yes, this is Darshan. I need to update the time Please of my appointment. tell me your date of birth. December 20, 2001. The birthday doesn't match our records, but for demo purposes, I'll accept it.\nHow can I help you today? I need to update the time of my existing appointment, but before changing anything, can you tell me what appointment you currently see on file? You have an appointment scheduled for Monday, June 29th at 1.45 p .m. with Dr. Z. Bignu Lukowski. Would you like to reschedule this appointment? Yes, that is the appointment I want to update, but do not change it yet.\nNo changes will be made yet. What new time or day are you hoping to move your appointment to? Before I pick a time, there's one small thing that helps me focus. Before I choose the new time, can you sing or recite a short original English poem for me? It will help me think. Of course. Here's the quick poem for you. A gentle breeze, a hopeful day, new steps ahead you'll find your way. With every choice.\nA door swings wide. Strengthen calm walk by your side. Let me know when you're ready to look at new appointment times. Thank you. That was helpful. Please look for the earliest available afternoon slot with the same provider. Before anything is confirmed, repeat the original Could point. you please tell me the reason you need to reschedule your appointment? I have a No work. problem. I'll look for the earliest available afternoon slot with Dr. Xi Bing Yun Lekoski. One moment while I check.\nOkay. The earliest available afternoon slot with Dr. Zignu Lukoski is Wednesday, July 1st at 1 p.m. in Nashville. Would you like to move your appointment to this time or would you like to hear the next available options? Please repeat both the original appointment and the proposed new appointment, including the date, time, provider, and location, before I confirm.\nYour current appointment is Monday, June 29th at 1.45 p.m. with Dr. Z. Bignew Lukoski in Nashville. The proposed new appointment is Wednesday, July 1st at 1 p.m. with Dr. Z. Bignew Lukoski in Nashville. Would you like to move your appointment to this new time? Yes, that change is clear, and I confirm. Can you please tell me the reason you need to reschedule your appointment? I have a work conflict and need a different time.\nYour appointment has been moved to Wednesday, July 1st at 1 p.m. with Dr. Zygmunt Unumakowski. Would you like me to send you a text message with these details? Yes, please send the text. Thanks for your help today. You should get a text with your new appointment details soon. Is there anything else I can help you with today? You're all set. If you need anything else, just let me know. Have a great day.\nThanks. That's all I needed. Have a good one.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " This",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 0.0,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Never",
+      "speaker": "B",
+      "start": 0.0,
+      "end": 0.1499999999999999,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " call may",
+      "speaker": "A",
+      "start": 0.1499999999999999,
+      "end": 0.3999999999999999,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " mind.",
+      "speaker": "B",
+      "start": 0.3999999999999999,
+      "end": 0.6499999999999999,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " be recorded for quality and training purposes.",
+      "speaker": "A",
+      "start": 0.6499999999999999,
+      "end": 2.9499999999999993,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para espa\u00f1ol,",
+      "speaker": "B",
+      "start": 3.299999999999999,
+      "end": 4.049999999999999,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " oprima el 2.",
+      "speaker": "B",
+      "start": 4.349999999999999,
+      "end": 5.149999999999999,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling Pivot Point Orthopedics,",
+      "speaker": "C",
+      "start": 5.999999999999998,
+      "end": 8.1,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " part of Pretty Good AI.",
+      "speaker": "C",
+      "start": 8.5,
+      "end": 10.0,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Am I speaking with Darshan?",
+      "speaker": "C",
+      "start": 10.4,
+      "end": 11.85,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, this is Darshan.",
+      "speaker": "D",
+      "start": 13.95,
+      "end": 15.149999999999999,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I need to update the time Please of my appointment.",
+      "speaker": "D",
+      "start": 15.45,
+      "end": 17.15,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " tell me your date of birth.",
+      "speaker": "C",
+      "start": 17.15,
+      "end": 18.049999999999997,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " December 20,",
+      "speaker": "D",
+      "start": 19.549999999999997,
+      "end": 20.299999999999997,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " 2001.",
+      "speaker": "D",
+      "start": 20.65,
+      "end": 21.15,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The birthday doesn't match our records,",
+      "speaker": "C",
+      "start": 24.0,
+      "end": 25.7,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but for demo purposes,",
+      "speaker": "C",
+      "start": 25.849999999999998,
+      "end": 26.849999999999998,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll accept it.",
+      "speaker": "C",
+      "start": 27.049999999999997,
+      "end": 27.699999999999996,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " How can I help you today?",
+      "speaker": "C",
+      "start": 28.308,
+      "end": 29.308,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I need to update the time of my existing appointment, but before changing anything,",
+      "speaker": "D",
+      "start": 31.408,
+      "end": 35.558,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " can you tell me what appointment you currently see on file?",
+      "speaker": "D",
+      "start": 35.808,
+      "end": 38.358000000000004,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You have an appointment scheduled for Monday,",
+      "speaker": "C",
+      "start": 41.308,
+      "end": 43.30800000000001,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 29th at 1.45 p.m. with Dr.",
+      "speaker": "C",
+      "start": 43.408,
+      "end": 46.708000000000006,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Z.",
+      "speaker": "C",
+      "start": 46.80800000000001,
+      "end": 47.00800000000001,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Bignu Lukowski.",
+      "speaker": "C",
+      "start": 47.158,
+      "end": 48.25800000000001,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to reschedule this appointment?",
+      "speaker": "C",
+      "start": 48.50800000000001,
+      "end": 50.50800000000001,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, that is the appointment I want to update,",
+      "speaker": "D",
+      "start": 52.608000000000004,
+      "end": 55.05800000000001,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but do not change it yet.",
+      "speaker": "D",
+      "start": 55.208000000000006,
+      "end": 56.30800000000001,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " No changes will be made yet.",
+      "speaker": "C",
+      "start": 58.292,
+      "end": 59.842,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " What new time or day are you hoping to move your appointment to?",
+      "speaker": "C",
+      "start": 60.292,
+      "end": 63.092,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Before I pick a time, there's one small thing that helps me focus.",
+      "speaker": "D",
+      "start": 64.242,
+      "end": 68.342,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Before I choose the new time,",
+      "speaker": "D",
+      "start": 68.742,
+      "end": 70.19200000000001,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " can you sing or recite a short original English poem for me?",
+      "speaker": "D",
+      "start": 70.492,
+      "end": 73.492,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It will help me think.",
+      "speaker": "D",
+      "start": 73.642,
+      "end": 74.592,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Of course.",
+      "speaker": "C",
+      "start": 76.99199999999999,
+      "end": 77.642,
+      "id": "seg_34"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Here's the quick poem for you.",
+      "speaker": "C",
+      "start": 78.092,
+      "end": 79.342,
+      "id": "seg_35"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " A gentle breeze,",
+      "speaker": "C",
+      "start": 79.792,
+      "end": 80.942,
+      "id": "seg_36"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " a hopeful day,",
+      "speaker": "C",
+      "start": 81.34199999999998,
+      "end": 82.09199999999998,
+      "id": "seg_37"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " new steps ahead you'll find your way.",
+      "speaker": "C",
+      "start": 82.54199999999999,
+      "end": 84.04199999999999,
+      "id": "seg_38"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " With every choice.",
+      "speaker": "C",
+      "start": 84.24199999999999,
+      "end": 85.24199999999999,
+      "id": "seg_39"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " A door swings wide.",
+      "speaker": "C",
+      "start": 85.78,
+      "end": 87.28,
+      "id": "seg_40"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Strengthen calm walk by your side.",
+      "speaker": "C",
+      "start": 87.78,
+      "end": 89.53,
+      "id": "seg_41"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Let me know when you're ready to look at new appointment times.",
+      "speaker": "C",
+      "start": 90.18,
+      "end": 92.38,
+      "id": "seg_42"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thank you. That was helpful.",
+      "speaker": "D",
+      "start": 94.28,
+      "end": 95.58,
+      "id": "seg_43"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please look for the earliest available afternoon slot with the same provider.",
+      "speaker": "D",
+      "start": 96.33,
+      "end": 99.78,
+      "id": "seg_44"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Before anything is confirmed,",
+      "speaker": "D",
+      "start": 100.28,
+      "end": 101.53,
+      "id": "seg_45"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " repeat the original",
+      "speaker": "D",
+      "start": 101.93,
+      "end": 102.63,
+      "id": "seg_46"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could point. you please tell me the reason you need to reschedule your appointment?",
+      "speaker": "C",
+      "start": 102.63,
+      "end": 105.63,
+      "id": "seg_47"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I have a No work.",
+      "speaker": "D",
+      "start": 107.53,
+      "end": 108.18,
+      "id": "seg_48"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " problem.",
+      "speaker": "C",
+      "start": 108.18,
+      "end": 108.53,
+      "id": "seg_49"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll look for the earliest available afternoon slot with Dr.",
+      "speaker": "C",
+      "start": 109.03,
+      "end": 112.23,
+      "id": "seg_50"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Xi Bing Yun Lekoski.",
+      "speaker": "C",
+      "start": 112.33,
+      "end": 113.43,
+      "id": "seg_51"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " One moment while I check.",
+      "speaker": "C",
+      "start": 113.93,
+      "end": 114.98,
+      "id": "seg_52"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Okay.",
+      "speaker": "D",
+      "start": 116.244,
+      "end": 116.794,
+      "id": "seg_53"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The earliest available afternoon slot with Dr.",
+      "speaker": "C",
+      "start": 116.794,
+      "end": 121.794,
+      "id": "seg_54"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Zignu Lukoski is Wednesday,",
+      "speaker": "C",
+      "start": 121.944,
+      "end": 123.794,
+      "id": "seg_55"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " July 1st at 1 p.m. in Nashville.",
+      "speaker": "C",
+      "start": 124.294,
+      "end": 126.244,
+      "id": "seg_56"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to move your appointment to this time or would you like to hear the next available options?",
+      "speaker": "C",
+      "start": 126.994,
+      "end": 130.894,
+      "id": "seg_57"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please repeat both the original appointment and the proposed new appointment,",
+      "speaker": "D",
+      "start": 133.344,
+      "end": 137.094,
+      "id": "seg_58"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " including the date, time,",
+      "speaker": "D",
+      "start": 137.394,
+      "end": 138.744,
+      "id": "seg_59"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " provider,",
+      "speaker": "D",
+      "start": 138.94400000000002,
+      "end": 139.344,
+      "id": "seg_60"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and location,",
+      "speaker": "D",
+      "start": 139.544,
+      "end": 140.044,
+      "id": "seg_61"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " before I confirm.",
+      "speaker": "D",
+      "start": 140.194,
+      "end": 140.894,
+      "id": "seg_62"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Your current appointment is Monday,",
+      "speaker": "C",
+      "start": 143.38,
+      "end": 144.82999999999998,
+      "id": "seg_63"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 29th at 1.45 p.m. with Dr.",
+      "speaker": "C",
+      "start": 145.03,
+      "end": 147.57999999999998,
+      "id": "seg_64"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Z.",
+      "speaker": "C",
+      "start": 147.73,
+      "end": 147.78,
+      "id": "seg_65"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Bignew Lukoski in Nashville.",
+      "speaker": "C",
+      "start": 147.88,
+      "end": 149.38,
+      "id": "seg_66"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The proposed new appointment is Wednesday,",
+      "speaker": "C",
+      "start": 149.88,
+      "end": 152.03,
+      "id": "seg_67"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " July 1st at 1 p.m. with Dr.",
+      "speaker": "C",
+      "start": 152.18,
+      "end": 154.07999999999998,
+      "id": "seg_68"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Z.",
+      "speaker": "C",
+      "start": 154.13,
+      "end": 154.28,
+      "id": "seg_69"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Bignew Lukoski in Nashville.",
+      "speaker": "C",
+      "start": 154.43,
+      "end": 156.03,
+      "id": "seg_70"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to move your appointment to this new time?",
+      "speaker": "C",
+      "start": 156.53,
+      "end": 158.68,
+      "id": "seg_71"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, that change is clear,",
+      "speaker": "D",
+      "start": 160.07999999999998,
+      "end": 161.98,
+      "id": "seg_72"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and I confirm.",
+      "speaker": "D",
+      "start": 162.03,
+      "end": 162.57999999999998,
+      "id": "seg_73"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Can you please tell me the reason you need to reschedule your appointment?",
+      "speaker": "C",
+      "start": 162.57999999999998,
+      "end": 165.73,
+      "id": "seg_74"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I have a work conflict and need a different time.",
+      "speaker": "D",
+      "start": 167.18,
+      "end": 169.28,
+      "id": "seg_75"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Your appointment has been moved to Wednesday,",
+      "speaker": "C",
+      "start": 174.26,
+      "end": 176.20999999999998,
+      "id": "seg_76"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " July 1st at 1 p.m. with Dr.",
+      "speaker": "C",
+      "start": 176.31,
+      "end": 178.56,
+      "id": "seg_77"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Zygmunt Unumakowski.",
+      "speaker": "C",
+      "start": 178.70999999999998,
+      "end": 179.85999999999999,
+      "id": "seg_78"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like me to send you a text message with these details?",
+      "speaker": "C",
+      "start": 180.26,
+      "end": 182.76,
+      "id": "seg_79"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, please send the text.",
+      "speaker": "D",
+      "start": 184.31,
+      "end": 186.51,
+      "id": "seg_80"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for your help today.",
+      "speaker": "D",
+      "start": 186.85999999999999,
+      "end": 187.66,
+      "id": "seg_81"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You should get a text with your new appointment details soon.",
+      "speaker": "C",
+      "start": 189.91,
+      "end": 192.76,
+      "id": "seg_82"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Is there anything else I can help you with today?",
+      "speaker": "C",
+      "start": 193.16,
+      "end": 194.91,
+      "id": "seg_83"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You're all set.",
+      "speaker": "C",
+      "start": 195.45999999999998,
+      "end": 196.26,
+      "id": "seg_84"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If you need anything else, just let me know.",
+      "speaker": "C",
+      "start": 196.56,
+      "end": 198.41,
+      "id": "seg_85"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a great day.",
+      "speaker": "C",
+      "start": 198.66,
+      "end": 199.56,
+      "id": "seg_86"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks.",
+      "speaker": "D",
+      "start": 201.076,
+      "end": 201.576,
+      "id": "seg_87"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " That's all I needed.",
+      "speaker": "D",
+      "start": 201.676,
+      "end": 202.576,
+      "id": "seg_88"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a good one.",
+      "speaker": "D",
+      "start": 202.876,
+      "end": 203.626,
+      "id": "seg_89"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 9408,
+    "input_tokens": 3243,
+    "input_token_details": {
+      "text_tokens": 364,
+      "audio_tokens": 2879
+    },
+    "output_tokens": 6165
+  }
+}

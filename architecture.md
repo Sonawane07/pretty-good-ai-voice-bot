@@ -1,0 +1,5 @@
+# Architecture
+
+The system is a Python voice-calling harness built around Twilio Programmable Voice and the OpenAI Realtime API. `pretty_good_ai.call_runner` starts calls to the single allowed assessment number, Twilio fetches `/voice/twiml`, and the FastAPI server bridges Twilio Media Streams to OpenAI Realtime over WebSockets. Scenario definitions in `pretty_good_ai.scenarios` shape the caller persona and test objective, while a preflight endpoint lets `run_scenario` verify that the running server has the same scenario text before any paid call is placed.
+
+After each call, `pretty_good_ai.run_scenario` waits for Twilio completion, downloads the MP3 recording, transcribes it, updates `data/reports/call-index.md`, and asks an analysis model to draft bug candidates for manual review. The design favors a small, inspectable pipeline over production infrastructure: safety checks prevent wrong-number calls, artifacts are stored with stable names, and final bug decisions stay human-reviewed in `data/reports/bug-report.md`.

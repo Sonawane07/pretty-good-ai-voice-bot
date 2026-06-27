@@ -1,0 +1,519 @@
+{
+  "text": "This The call next is may be recorded for quality and training purposes. Para espanol oprima el dos. Thanks for calling Pivot Point Orthopaedics, part of pretty good ai Am I speaking with Darshan? Yes, this is Darshan Sinha Wani. I'm calling because I need to reschedule my shoulder follow up to next week. Please provide your date of birth. It's december twentieth two thousand one.\nThe birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today? Thanks. I just need to move my shoulder follow-up to sometime next week. I can't make the current appointment because of work. Could you check what you have available? Yeah, the shoulder follow-up scheduled for Friday, June 26th at 8 a.m. with Dr. Z. Bignew-Lukoski at Nashville 220 Athens Way. Is this the appointment you want to move to next week?\nYou have a shoulder follow-up scheduled for Friday, June 26th at 8 a.m. with Dr. Zibigniew Mikoski at Nashville 220 Athens Way. Is this the appointment you want to move to next week? Yes, that's the one. Could you move it to a similar time next week if possible?\nI have Monday, June 29th at 8.30 a.m. or 1.15 p .m. and Tuesday, June 30th at 8.15 a.m. Do any of these work for you? If not, is there a specific day or time next week you prefer? Monday at 8.30 a.m. works for me. Let's go with that, please. Can you tell me the reason you need to reschedule your appointment? I have a work conflict that morning, so I can't make it.\nYou'd like to move your shoulder follow-up to Monday, June 29th at 8.30 a.m. with Dr. Zbigniew Lukaski at Nashville, 220 Athens Way. Is that correct? Yes, that's correct. Thank you for switching it. I appreciate the help. Your shoulder follow-up is now set for Monday, June 29th at 8.30 a.m.\nWith Dr. Z. Big New Lukoski. Would you like a text message with these details? Yes, a text message would be great. Thanks again for your help. I sent the appointment details to your phone. Is there anything else I can help you with today? I've sent the appointment details to your phone. Let me know if you need anything else. Have a great day. That's everything. Thanks. Have a great day.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " This",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 0.19999999999999996,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The",
+      "speaker": "B",
+      "start": 0.19999999999999996,
+      "end": 0.25,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " call",
+      "speaker": "A",
+      "start": 0.25,
+      "end": 0.3999999999999999,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " next is",
+      "speaker": "B",
+      "start": 0.3999999999999999,
+      "end": 0.5499999999999998,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " may be recorded for quality and training purposes.",
+      "speaker": "A",
+      "start": 0.5499999999999998,
+      "end": 3.05,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para espanol oprima el dos.",
+      "speaker": "A",
+      "start": 3.3499999999999996,
+      "end": 5.3,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling Pivot Point Orthopaedics,",
+      "speaker": "C",
+      "start": 6.05,
+      "end": 8.3,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " part of pretty good ai Am I speaking with Darshan?",
+      "speaker": "C",
+      "start": 8.75,
+      "end": 11.5,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes,",
+      "speaker": "B",
+      "start": 13.4,
+      "end": 13.8,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " this is Darshan Sinha Wani.",
+      "speaker": "B",
+      "start": 13.950000000000001,
+      "end": 15.100000000000001,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'm calling because I need to reschedule my shoulder follow up to next week.",
+      "speaker": "B",
+      "start": 15.600000000000001,
+      "end": 18.5,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please provide your date of birth.",
+      "speaker": "C",
+      "start": 18.5,
+      "end": 20.05,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It's december twentieth two thousand one.",
+      "speaker": "B",
+      "start": 21.5,
+      "end": 24.2,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The birthday doesn't match our records, but for demo purposes,",
+      "speaker": "C",
+      "start": 27.988,
+      "end": 30.738,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll accept it.",
+      "speaker": "C",
+      "start": 30.887999999999998,
+      "end": 31.637999999999998,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " How can I help you today?",
+      "speaker": "C",
+      "start": 32.238,
+      "end": 33.088,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks.",
+      "speaker": "B",
+      "start": 34.838,
+      "end": 35.438,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I just need to move my shoulder follow-up to sometime next week.",
+      "speaker": "B",
+      "start": 35.538,
+      "end": 38.788,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I can't make the current appointment because of work.",
+      "speaker": "B",
+      "start": 38.938,
+      "end": 41.288,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you check what you have available?",
+      "speaker": "B",
+      "start": 41.588,
+      "end": 42.988,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yeah, the shoulder follow-up scheduled for Friday,",
+      "speaker": "C",
+      "start": 44.138,
+      "end": 46.388,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 26th at 8 a.m. with Dr.",
+      "speaker": "C",
+      "start": 46.488,
+      "end": 49.038,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Z.",
+      "speaker": "C",
+      "start": 49.138000000000005,
+      "end": 49.238,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Bignew-Lukoski at Nashville 220 Athens Way.",
+      "speaker": "C",
+      "start": 49.33800000000001,
+      "end": 52.738,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Is this the appointment you want to move to next week?",
+      "speaker": "C",
+      "start": 53.038000000000004,
+      "end": 55.288000000000004,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You have a shoulder follow-up scheduled for Friday,",
+      "speaker": "C",
+      "start": 56.052,
+      "end": 58.452,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 26th at 8 a.m. with Dr.",
+      "speaker": "C",
+      "start": 58.552,
+      "end": 62.852,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Zibigniew Mikoski at Nashville 220 Athens Way.",
+      "speaker": "C",
+      "start": 62.952,
+      "end": 67.852,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Is this the appointment you want to move to next week?",
+      "speaker": "C",
+      "start": 68.202,
+      "end": 70.452,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, that's the one.",
+      "speaker": "B",
+      "start": 72.152,
+      "end": 73.55199999999999,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you move it to a similar time next week if possible?",
+      "speaker": "B",
+      "start": 73.852,
+      "end": 76.30199999999999,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I have Monday, June 29th at 8.30 a.m. or 1.15 p.m. and Tuesday,",
+      "speaker": "C",
+      "start": 79.22,
+      "end": 84.47,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 30th at 8.15 a.m.",
+      "speaker": "C",
+      "start": 84.67,
+      "end": 86.32,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Do any of these work for you?",
+      "speaker": "C",
+      "start": 86.52,
+      "end": 87.87,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If not, is there a specific day or time next week you prefer?",
+      "speaker": "C",
+      "start": 88.22,
+      "end": 92.27,
+      "id": "seg_34"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Monday at 8.30 a.m. works for me. Let's go with that, please.",
+      "speaker": "B",
+      "start": 93.87,
+      "end": 97.27,
+      "id": "seg_35"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Can you tell me the reason you need to reschedule your appointment?",
+      "speaker": "C",
+      "start": 99.62,
+      "end": 102.27,
+      "id": "seg_36"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I have a work conflict that morning,",
+      "speaker": "B",
+      "start": 104.07,
+      "end": 105.77,
+      "id": "seg_37"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " so I can't make it.",
+      "speaker": "B",
+      "start": 105.87,
+      "end": 106.82,
+      "id": "seg_38"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You'd like to move your shoulder follow-up to Monday,",
+      "speaker": "C",
+      "start": 109.396,
+      "end": 111.446,
+      "id": "seg_39"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 29th at 8.30 a.m. with Dr.",
+      "speaker": "C",
+      "start": 111.596,
+      "end": 114.246,
+      "id": "seg_40"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Zbigniew Lukaski at Nashville,",
+      "speaker": "C",
+      "start": 114.296,
+      "end": 116.046,
+      "id": "seg_41"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " 220 Athens Way.",
+      "speaker": "C",
+      "start": 116.946,
+      "end": 118.346,
+      "id": "seg_42"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Is that correct?",
+      "speaker": "C",
+      "start": 118.646,
+      "end": 119.396,
+      "id": "seg_43"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, that's correct.",
+      "speaker": "B",
+      "start": 121.096,
+      "end": 122.24600000000001,
+      "id": "seg_44"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thank you for switching it.",
+      "speaker": "B",
+      "start": 122.546,
+      "end": 123.49600000000001,
+      "id": "seg_45"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I appreciate the help.",
+      "speaker": "B",
+      "start": 123.596,
+      "end": 124.446,
+      "id": "seg_46"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Your shoulder follow-up is now set for Monday,",
+      "speaker": "C",
+      "start": 130.39600000000002,
+      "end": 132.946,
+      "id": "seg_47"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 29th at 8.30 a.m.",
+      "speaker": "C",
+      "start": 133.046,
+      "end": 135.496,
+      "id": "seg_48"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " With Dr.",
+      "speaker": "C",
+      "start": 135.924,
+      "end": 136.674,
+      "id": "seg_49"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Z.",
+      "speaker": "C",
+      "start": 136.72400000000002,
+      "end": 136.874,
+      "id": "seg_50"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Big New Lukoski.",
+      "speaker": "C",
+      "start": 137.024,
+      "end": 138.124,
+      "id": "seg_51"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like a text message with these details?",
+      "speaker": "C",
+      "start": 138.524,
+      "end": 140.524,
+      "id": "seg_52"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, a text message would be great.",
+      "speaker": "B",
+      "start": 142.324,
+      "end": 144.424,
+      "id": "seg_53"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks again for your help.",
+      "speaker": "B",
+      "start": 144.674,
+      "end": 145.72400000000002,
+      "id": "seg_54"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I sent the appointment details to your phone.",
+      "speaker": "C",
+      "start": 149.22400000000002,
+      "end": 151.22400000000002,
+      "id": "seg_55"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Is there anything else I can help you with today?",
+      "speaker": "C",
+      "start": 151.674,
+      "end": 153.374,
+      "id": "seg_56"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I've sent the appointment details to your phone.",
+      "speaker": "C",
+      "start": 153.924,
+      "end": 156.074,
+      "id": "seg_57"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Let me know if you need anything else.",
+      "speaker": "C",
+      "start": 156.374,
+      "end": 158.074,
+      "id": "seg_58"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a great day.",
+      "speaker": "C",
+      "start": 158.374,
+      "end": 159.22400000000002,
+      "id": "seg_59"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " That's everything.",
+      "speaker": "B",
+      "start": 161.424,
+      "end": 162.274,
+      "id": "seg_60"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks.",
+      "speaker": "B",
+      "start": 162.424,
+      "end": 162.97400000000002,
+      "id": "seg_61"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a great day.",
+      "speaker": "B",
+      "start": 163.124,
+      "end": 164.074,
+      "id": "seg_62"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 7404,
+    "input_tokens": 2540,
+    "input_token_details": {
+      "text_tokens": 200,
+      "audio_tokens": 2340
+    },
+    "output_tokens": 4864
+  }
+}

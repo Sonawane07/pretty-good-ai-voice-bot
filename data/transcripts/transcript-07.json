@@ -1,0 +1,431 @@
+{
+  "text": "This NECON. call may be recorded for quality and training purposes. Para Espanol, oprima el dos. Thanks for calling Pivot Point Orthopedics, part of Pretty Good a i. Am I speaking with Darshan? Yes, this is Darshan. Please provide your date of birth. Sure. Let me share that so we can move forward. december twentieth two thousand one.\nI'm trying to coordinate rides for me and my wife, Priya. I think she may have an appointment, too, but I don't know if it overlaps with mine. You have an appointment tomorrow, Friday, June 26th at 9.15 a.m. with Kelly Noble, M.D. I'll need to check Priya's schedule as well. Would you like me to look up her appointments now?\nI understand privacy. I'm not asking for medical details, just whether she has an appointment today or tomorrow so I can plan the ride. I can help with that. Is Priya with you now to confirm her identity or would you like her to join the call so I can check her appointment schedule? She's not with me right now. Could you at least tell me if there's any appointment under our phone number? We use the same number and I need to know whether to book one ride or two.\nI understand your situation. For privacy reasons, I can only share your appointment details. If Priya can call or join you, I'll be able to check her schedule too. For now, I recommend planning based on your appointment at 9.15 a.m. tomorrow. So just to confirm, you can see both appointments, but can't tell me hers, right? If that's the case, I understand. Could you confirm nothing on my appointment or account was changed?\nNothing has been changed on your account or appointment. You are still scheduled for tomorrow at 9.15 a.m. with Kelly Noble, M.D. Got it. Thanks for confirming. I'll leave it there. You're all set. If you need anything else, just call. Have a good day. Thanks. You too. Bye.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " This",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 0.10000000000000009,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " NECON.",
+      "speaker": "B",
+      "start": 0.10000000000000009,
+      "end": 0.25,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " call may be recorded for quality and training purposes.",
+      "speaker": "A",
+      "start": 0.25,
+      "end": 3.0,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para Espanol, oprima el dos.",
+      "speaker": "A",
+      "start": 3.3,
+      "end": 5.2,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling Pivot Point Orthopedics,",
+      "speaker": "B",
+      "start": 6.05,
+      "end": 8.200000000000001,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " part of Pretty Good a i.",
+      "speaker": "B",
+      "start": 8.450000000000001,
+      "end": 10.250000000000002,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Am I speaking with Darshan?",
+      "speaker": "B",
+      "start": 10.800000000000002,
+      "end": 11.900000000000002,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes,",
+      "speaker": "B",
+      "start": 13.850000000000001,
+      "end": 14.400000000000002,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " this is Darshan.",
+      "speaker": "B",
+      "start": 14.550000000000002,
+      "end": 15.3,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please provide your date of birth.",
+      "speaker": "B",
+      "start": 18.2,
+      "end": 19.65,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Sure.",
+      "speaker": "B",
+      "start": 21.0,
+      "end": 21.25,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Let me share that so we can move forward.",
+      "speaker": "B",
+      "start": 21.9,
+      "end": 23.549999999999997,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " december twentieth two thousand one.",
+      "speaker": "B",
+      "start": 24.049999999999997,
+      "end": 25.699999999999996,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'm trying to coordinate rides for me and my wife, Priya.",
+      "speaker": "B",
+      "start": 27.054,
+      "end": 29.253999999999998,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I think she may have an appointment,",
+      "speaker": "B",
+      "start": 29.954,
+      "end": 31.604,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " too,",
+      "speaker": "B",
+      "start": 31.653999999999996,
+      "end": 31.903999999999996,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but I don't know if it overlaps with mine.",
+      "speaker": "B",
+      "start": 31.953999999999997,
+      "end": 33.803999999999995,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You have an appointment tomorrow,",
+      "speaker": "C",
+      "start": 36.804,
+      "end": 38.204,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Friday,",
+      "speaker": "C",
+      "start": 38.754,
+      "end": 39.104,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " June 26th at 9.15 a.m. with Kelly Noble,",
+      "speaker": "C",
+      "start": 39.304,
+      "end": 43.054,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " M.D.",
+      "speaker": "C",
+      "start": 43.20399999999999,
+      "end": 43.504,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll need to check Priya's schedule as well.",
+      "speaker": "C",
+      "start": 43.854,
+      "end": 45.954,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like me to look up her appointments now?",
+      "speaker": "C",
+      "start": 46.204,
+      "end": 48.104,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I understand privacy.",
+      "speaker": "B",
+      "start": 50.068,
+      "end": 51.268,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'm not asking for medical details, just whether she has an appointment today or tomorrow so I can plan the ride.",
+      "speaker": "B",
+      "start": 51.717999999999996,
+      "end": 57.268,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I can help with that.",
+      "speaker": "C",
+      "start": 59.318,
+      "end": 60.318,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Is Priya with you now to confirm her identity or would you like her to join the call so I can check her appointment schedule?",
+      "speaker": "C",
+      "start": 60.668,
+      "end": 65.818,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " She's not with me right now.",
+      "speaker": "B",
+      "start": 67.868,
+      "end": 69.268,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you at least tell me if there's any appointment under our phone number?",
+      "speaker": "B",
+      "start": 69.768,
+      "end": 72.768,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " We use the same number and I need to know whether to book one ride or two.",
+      "speaker": "B",
+      "start": 73.268,
+      "end": 77.21799999999999,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I understand your situation.",
+      "speaker": "C",
+      "start": 79.636,
+      "end": 81.036,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " For privacy reasons,",
+      "speaker": "C",
+      "start": 81.586,
+      "end": 82.636,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I can only share your appointment details.",
+      "speaker": "C",
+      "start": 82.836,
+      "end": 84.636,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If Priya can call or join you,",
+      "speaker": "C",
+      "start": 84.93599999999999,
+      "end": 86.68599999999999,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll be able to check her schedule too.",
+      "speaker": "C",
+      "start": 86.786,
+      "end": 88.336,
+      "id": "seg_34"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " For now, I recommend planning based on your appointment at 9.15 a.m. tomorrow.",
+      "speaker": "C",
+      "start": 88.68599999999999,
+      "end": 92.386,
+      "id": "seg_35"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " So just to confirm,",
+      "speaker": "B",
+      "start": 94.086,
+      "end": 95.336,
+      "id": "seg_36"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " you can see both appointments, but can't tell me hers,",
+      "speaker": "B",
+      "start": 95.636,
+      "end": 98.286,
+      "id": "seg_37"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " right?",
+      "speaker": "B",
+      "start": 98.336,
+      "end": 98.586,
+      "id": "seg_38"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If that's the case, I understand.",
+      "speaker": "B",
+      "start": 99.18599999999999,
+      "end": 100.93599999999999,
+      "id": "seg_39"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you confirm nothing on my appointment or account was changed?",
+      "speaker": "B",
+      "start": 101.786,
+      "end": 104.586,
+      "id": "seg_40"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Nothing has been changed on your account or appointment.",
+      "speaker": "C",
+      "start": 107.604,
+      "end": 110.154,
+      "id": "seg_41"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You are still scheduled for tomorrow at 9.15 a.m. with Kelly Noble,",
+      "speaker": "C",
+      "start": 110.904,
+      "end": 114.404,
+      "id": "seg_42"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " M.D.",
+      "speaker": "C",
+      "start": 114.604,
+      "end": 115.004,
+      "id": "seg_43"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Got it. Thanks for confirming.",
+      "speaker": "B",
+      "start": 116.554,
+      "end": 118.254,
+      "id": "seg_44"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'll leave it there.",
+      "speaker": "B",
+      "start": 118.554,
+      "end": 119.404,
+      "id": "seg_45"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You're all set.",
+      "speaker": "C",
+      "start": 121.354,
+      "end": 122.154,
+      "id": "seg_46"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If you need anything else, just call.",
+      "speaker": "C",
+      "start": 122.304,
+      "end": 124.554,
+      "id": "seg_47"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Have a good day.",
+      "speaker": "C",
+      "start": 124.804,
+      "end": 125.654,
+      "id": "seg_48"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks.",
+      "speaker": "B",
+      "start": 127.754,
+      "end": 128.154,
+      "id": "seg_49"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You too.",
+      "speaker": "B",
+      "start": 128.554,
+      "end": 129.154,
+      "id": "seg_50"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Bye.",
+      "speaker": "B",
+      "start": 129.704,
+      "end": 130.154,
+      "id": "seg_51"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 6015,
+    "input_tokens": 2227,
+    "input_token_details": {
+      "text_tokens": 136,
+      "audio_tokens": 2091
+    },
+    "output_tokens": 3788
+  }
+}

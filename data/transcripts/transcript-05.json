@@ -1,0 +1,407 @@
+{
+  "text": "This The next call is may now. be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos. Thanks for calling Pivot Point Orthopedics. Got a pretty good AI? Am I speaking with Darshan? Yes, this is Darshan Senawane. I'd like to book a new appointment for right ankle Please pain. provide your date of birth. My date of birth is December 20th, 2001.\nThe birthday doesn't match our records, but for demo purposes I'll accept it. How can I help you today? I twisted my right ankle while walking and it's still painful. I'd like to schedule a new orthopedic appointment for that. It sounds like you need an urgent visit for your ankle pain. Just to confirm, are you looking to book an acute appointment for this injury?\nYes, that's right. I'm looking to book an acute appointment for this injury. Do you have a specific provider you'd like to see, or are you open to the first available? I'm open to first available. That's fine. You already have an acute appointment booked for this issue. If you want to reschedule or cancel it, I can help. Would you like to make a change to your existing appointment?\nCould you tell me the date, time, provider, and location of the appointment you see on file? I want to make sure it's correct before I I continue. don't have access to the details of your existing appointment. I recommend speaking with a live team member who can provide that information. Would you like me to transfer you now? Yes, please transfer me to a live team member. Thanks. Connecting you to a representative. Please wait.\nHello, you've reached the pretty good ai test line. Goodbye. Okay, goodbye.",
+  "segments": [
+    {
+      "type": "transcript.text.segment",
+      "text": " This",
+      "speaker": "A",
+      "start": 0.0,
+      "end": 0.0,
+      "id": "seg_0"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The next",
+      "speaker": "B",
+      "start": 0.0,
+      "end": 0.1499999999999999,
+      "id": "seg_1"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " call",
+      "speaker": "A",
+      "start": 0.1499999999999999,
+      "end": 0.34999999999999987,
+      "id": "seg_2"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " is",
+      "speaker": "B",
+      "start": 0.34999999999999987,
+      "end": 0.44999999999999996,
+      "id": "seg_3"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " may now. be recorded for quality and training purposes.",
+      "speaker": "A",
+      "start": 0.44999999999999996,
+      "end": 2.95,
+      "id": "seg_4"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Para espa\u00f1ol,",
+      "speaker": "B",
+      "start": 3.25,
+      "end": 4.1,
+      "id": "seg_5"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " oprima el dos.",
+      "speaker": "B",
+      "start": 4.35,
+      "end": 5.25,
+      "id": "seg_6"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks for calling Pivot Point Orthopedics.",
+      "speaker": "C",
+      "start": 5.95,
+      "end": 8.150000000000002,
+      "id": "seg_7"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Got a pretty good AI?",
+      "speaker": "C",
+      "start": 8.550000000000002,
+      "end": 9.500000000000002,
+      "id": "seg_8"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Am I speaking with Darshan?",
+      "speaker": "C",
+      "start": 9.850000000000001,
+      "end": 11.400000000000002,
+      "id": "seg_9"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes,",
+      "speaker": "B",
+      "start": 12.950000000000003,
+      "end": 13.700000000000003,
+      "id": "seg_10"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " this is Darshan Senawane.",
+      "speaker": "B",
+      "start": 13.750000000000004,
+      "end": 15.450000000000003,
+      "id": "seg_11"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'd like to book a new appointment for right ankle Please pain.",
+      "speaker": "B",
+      "start": 16.1,
+      "end": 18.950000000000003,
+      "id": "seg_12"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " provide your date of birth.",
+      "speaker": "C",
+      "start": 18.950000000000003,
+      "end": 20.1,
+      "id": "seg_13"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " My date of birth is December 20th, 2001.",
+      "speaker": "B",
+      "start": 21.400000000000002,
+      "end": 24.650000000000002,
+      "id": "seg_14"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " The birthday doesn't match our records,",
+      "speaker": "C",
+      "start": 27.796,
+      "end": 29.496,
+      "id": "seg_15"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " but for demo purposes I'll accept it.",
+      "speaker": "C",
+      "start": 29.596,
+      "end": 31.596,
+      "id": "seg_16"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " How can I help you today?",
+      "speaker": "C",
+      "start": 32.146,
+      "end": 32.946,
+      "id": "seg_17"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I twisted my right ankle while walking and it's still painful.",
+      "speaker": "D",
+      "start": 34.995999999999995,
+      "end": 38.696,
+      "id": "seg_18"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'd like to schedule a new orthopedic appointment for that.",
+      "speaker": "D",
+      "start": 39.296,
+      "end": 41.995999999999995,
+      "id": "seg_19"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " It sounds like you need an urgent visit for your ankle pain.",
+      "speaker": "C",
+      "start": 45.446,
+      "end": 48.296,
+      "id": "seg_20"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Just to confirm,",
+      "speaker": "C",
+      "start": 48.596000000000004,
+      "end": 49.446,
+      "id": "seg_21"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " are you looking to book an acute appointment for this injury?",
+      "speaker": "C",
+      "start": 49.596000000000004,
+      "end": 52.196,
+      "id": "seg_22"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, that's right.",
+      "speaker": "D",
+      "start": 54.26,
+      "end": 55.46,
+      "id": "seg_23"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'm looking to book an acute appointment for this injury.",
+      "speaker": "D",
+      "start": 55.86,
+      "end": 58.459999999999994,
+      "id": "seg_24"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Do you have a specific provider you'd like to see,",
+      "speaker": "C",
+      "start": 58.459999999999994,
+      "end": 60.709999999999994,
+      "id": "seg_25"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " or are you open to the first available?",
+      "speaker": "C",
+      "start": 60.86,
+      "end": 62.81,
+      "id": "seg_26"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I'm open to first available.",
+      "speaker": "D",
+      "start": 65.11,
+      "end": 66.71,
+      "id": "seg_27"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " That's fine.",
+      "speaker": "D",
+      "start": 67.21,
+      "end": 67.91,
+      "id": "seg_28"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " You already have an acute appointment booked for this issue.",
+      "speaker": "C",
+      "start": 70.00999999999999,
+      "end": 72.86,
+      "id": "seg_29"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " If you want to reschedule or cancel it, I can help.",
+      "speaker": "C",
+      "start": 73.21000000000001,
+      "end": 75.46000000000001,
+      "id": "seg_30"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like to make a change to your existing appointment?",
+      "speaker": "C",
+      "start": 75.96000000000001,
+      "end": 78.11,
+      "id": "seg_31"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Could you tell me the date, time, provider,",
+      "speaker": "D",
+      "start": 82.004,
+      "end": 84.504,
+      "id": "seg_32"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " and location of the appointment you see on file?",
+      "speaker": "D",
+      "start": 84.604,
+      "end": 87.20400000000001,
+      "id": "seg_33"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I want to make sure it's correct before I",
+      "speaker": "D",
+      "start": 87.854,
+      "end": 89.854,
+      "id": "seg_34"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I",
+      "speaker": "C",
+      "start": 89.854,
+      "end": 89.90400000000001,
+      "id": "seg_35"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " continue.",
+      "speaker": "D",
+      "start": 89.90400000000001,
+      "end": 89.95400000000001,
+      "id": "seg_36"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " don't have access to the details of your existing appointment.",
+      "speaker": "C",
+      "start": 89.95400000000001,
+      "end": 92.20400000000001,
+      "id": "seg_37"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " I recommend speaking with a live team member who can provide that information.",
+      "speaker": "C",
+      "start": 92.554,
+      "end": 96.304,
+      "id": "seg_38"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Would you like me to transfer you now?",
+      "speaker": "C",
+      "start": 96.754,
+      "end": 98.40400000000001,
+      "id": "seg_39"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Yes, please transfer me to a live team member.",
+      "speaker": "D",
+      "start": 100.45400000000001,
+      "end": 103.254,
+      "id": "seg_40"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Thanks.",
+      "speaker": "D",
+      "start": 103.60400000000001,
+      "end": 103.95400000000001,
+      "id": "seg_41"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Connecting you to a representative.",
+      "speaker": "C",
+      "start": 106.75400000000002,
+      "end": 108.25400000000002,
+      "id": "seg_42"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Please wait.",
+      "speaker": "C",
+      "start": 108.65400000000001,
+      "end": 109.45400000000001,
+      "id": "seg_43"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Hello,",
+      "speaker": "D",
+      "start": 111.028,
+      "end": 111.47800000000001,
+      "id": "seg_44"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " you've reached the pretty good ai test line.",
+      "speaker": "D",
+      "start": 111.778,
+      "end": 113.828,
+      "id": "seg_45"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Goodbye.",
+      "speaker": "D",
+      "start": 114.278,
+      "end": 114.528,
+      "id": "seg_46"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " Okay,",
+      "speaker": "D",
+      "start": 116.278,
+      "end": 116.628,
+      "id": "seg_47"
+    },
+    {
+      "type": "transcript.text.segment",
+      "text": " goodbye.",
+      "speaker": "D",
+      "start": 117.17800000000001,
+      "end": 117.42800000000001,
+      "id": "seg_48"
+    }
+  ],
+  "usage": {
+    "type": "tokens",
+    "total_tokens": 5176,
+    "input_tokens": 1891,
+    "input_token_details": {
+      "text_tokens": 176,
+      "audio_tokens": 1715
+    },
+    "output_tokens": 3285
+  }
+}
