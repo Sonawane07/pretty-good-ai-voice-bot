@@ -72,7 +72,11 @@ Run a full scenario workflow:
 
 The workflow places the call, waits for completion, finds the Twilio recording, downloads it, transcribes it, updates `data/reports/call-index.md`, and drafts bug candidates.
 
-Important: restart Uvicorn after changing scenarios. The workflow preflights the running server scenario and refuses to place a paid call if the server has stale scenario text.
+### Stale Scenario Guard
+
+Uvicorn keeps `pretty_good_ai/scenarios.py` loaded in memory. After editing scenarios, restart Uvicorn before running another paid call.
+
+Use `pretty_good_ai.run_scenario` for paid calls. Before calling Twilio, it compares the local scenario with the running server's `/scenario/{scenario_id}` response and stops if `title`, `goal`, `details`, or `edge_case` differ. If you see a "Restart Uvicorn" error, stop, restart the server, then rerun the workflow.
 
 ## Safety
 
